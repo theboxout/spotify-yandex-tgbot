@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.22.0
+spotipy==2.24.0
+yandex-music==2.2.0
+requests==2.32.3
+python-dotenv==1.0.1
